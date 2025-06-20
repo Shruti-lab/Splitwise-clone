@@ -199,4 +199,4 @@ curl -X POST http://localhost:8000/groups/1/expenses -H "Content-Type: applicati
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
