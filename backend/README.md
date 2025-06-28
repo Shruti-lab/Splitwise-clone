@@ -118,6 +118,6 @@ The chat assistant understands the database schema and relationships, making it 
 ---
 
 ## ✨ Further Optimization
--- We can use Agents to leverage the reasoning capabilities of LLMs to make decisions during execution. 
--- Adding query validation and error handling: [link](https://python.langchain.com/docs/how_to/sql_query_checking/)
--- Improving propmts by advanced prompt engineering techniques: [link](https://python.langchain.com/docs/how_to/sql_prompting/)
+- We can use Agents to leverage the reasoning capabilities of LLMs to make decisions during execution. 
+- Adding query validation and error handling: [link](https://python.langchain.com/docs/how_to/sql_query_checking/)
+- Improving propmts by advanced prompt engineering techniques: [link](https://python.langchain.com/docs/how_to/sql_prompting/)
