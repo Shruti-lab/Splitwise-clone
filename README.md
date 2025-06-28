@@ -9,6 +9,24 @@ A fullstack expense sharing application built with FastAPI, React, TypeScript, a
 - **Balance Calculation**: See who owes whom in each group
 - **Personal Dashboard**: View your expenses and balances across all groups
 - **Dockerized Setup**: Easy deployment with Docker
+- 
+## AI Chat Assistant
+
+The application includes an AI-powered chat assistant that allows users to query their expense data using natural language:
+
+- **Natural Language Queries**: Ask questions about expenses, balances, and groups in plain English
+- **SQL Database Integration**: Powered by LangChain to convert questions into database queries
+- **LLM Integration**: Uses Gemini model for understanding and generating responses
+
+### Example Queries
+
+- "Who owes the most money in the Goa Trip group?"
+- "What expenses did I add last week?"
+- "Show me the balance details for the Dinner Club group."
+
+The chat assistant can be accessed through the `/chat/` API endpoint or via the chat interface in the frontend.
+Refer here for the implementation details:- [backend README.md](backend)
+
 
 ## Technologies Used
 
